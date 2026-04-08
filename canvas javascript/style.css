@@ -1,0 +1,16 @@
+#canvas{
+    background-color: aqua;
+}
+
+body {
+    display: flex;
+    justify-content: center;  
+} 
+
+.link a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+
